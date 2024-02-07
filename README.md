@@ -7,4 +7,5 @@ This repository contains a simple Java project that demonstrates the Builder Pat
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/java-builder-pattern-demo.git
+git clone https://github.com/your-username/Builder-Pattern.git
+
