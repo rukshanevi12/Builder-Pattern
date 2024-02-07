@@ -2,6 +2,10 @@
 
 This repository contains a simple Java project that demonstrates the Builder Pattern. The Builder Pattern is a creational design pattern used to construct complex objects step by step. In this project, we showcase its implementation in Java.
 
+## Development Environment
+
+This project was developed using the NetBeans IDE.
+
 ## Getting Started
 
 To get started with this project, clone the repository to your local machine:
