@@ -70,8 +70,6 @@ public class Test {
 
     public static void main(String[] args) {
 
-//        User builder = new User().setId(1).setName("rukshan").setMobile("0741129232");
-//        System.out.println(builder);
         User.Builder builder = new User.Builder().setId(1).setMobile("0711234567").setName("rukshan");
         User user = builder.builder();
         System.out.println(user);
