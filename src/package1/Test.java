@@ -70,9 +70,13 @@ public class Test {
 
     public static void main(String[] args) {
 
-        User.Builder builder = new User.Builder().setId(1).setMobile("0711234567").setName("rukshan");
+        User.Builder builder = new User.Builder().setId(1).setMobile("0711234567").setName("user1");
         User user = builder.builder();
         System.out.println(user);
+        
+        User.Builder builder1 = new User.Builder().setId(1).setMobile("0755555555").setName("user2");
+        User user1 = builder1.builder();
+        System.out.println(user1);
         
     }
 }
